@@ -202,11 +202,11 @@ nav ul{
     flex: 1 1 160px;
 }
 
-#courses{
+/* #courses{
     display: flex;
     justify-content: space-around;
     text-align: center;
-}
+} */
 
 .courses :first-child img{
     margin: 0;
@@ -270,12 +270,12 @@ nav ul{
     padding: 0 10px 10px 10px; 
     margin-top: 0;
 }
-
+/* 
 #facility{
     display: flex;
     justify-content: space-around;
     text-align: center;
-}
+} */
 
 .facilities > *{
     flex: 1 1 160px;
